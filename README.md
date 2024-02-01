@@ -1,3 +1,5 @@
+# HashChat
+
 ## Descrição do Projeto
 
 <img src="./public//assets//chat.png" style=width:50px; align="left"  alt="Balões de fala">
